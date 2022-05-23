@@ -18,7 +18,7 @@
   <img align="center" alt="Van-PHP" height="50" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="right" alt="Van-pic" height="150" style="border-radius:50px;" 
-       src="https://i.postimg.cc/rssb5LgR/Ready-Player-Me-Avatar2.png">
+       src="https://i.postimg.cc/YS1hB56F/Ready-Player-Me-Avatar22.png">
         
 </div>
   
